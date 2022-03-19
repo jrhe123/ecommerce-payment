@@ -1,0 +1,6 @@
+1. maven build
+build with unit test: mvn clean package
+build without unit test: mvn clean package -Dmaven.test.skip=true
+
+2. run jar after build
+java -jar target/mall-0.0.1-SNAPSHOT.jar
