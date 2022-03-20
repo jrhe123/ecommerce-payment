@@ -4,3 +4,6 @@ build without unit test: mvn clean package -Dmaven.test.skip=true
 
 2. run jar after build
 java -jar target/mall-0.0.1-SNAPSHOT.jar
+
+3. mybatis generator
+mvn mybatis-generator:generate
