@@ -7,3 +7,6 @@ java -jar target/mall-0.0.1-SNAPSHOT.jar
 
 3. mybatis generator
 mvn mybatis-generator:generate
+
+4. payment sdk
+https://github.com/Pay-Group/best-pay-sdk

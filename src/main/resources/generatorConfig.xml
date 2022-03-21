@@ -39,8 +39,8 @@
     </javaClientGenerator>
 
     <table 
-    	tableName="mall_order_item"
-    	domainObjectName="OrderItem"
+    	tableName="mall_user"
+    	domainObjectName="User"
     	enableCountByExample="false"
     	enableDeleteByExample="false"
     	enableSelectByExample="false"
